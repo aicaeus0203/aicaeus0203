@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrius, also known as @aicaeus0203
-- 🌱 I’m currently learning front end web development, eventually full stack. 
+- 🌱 I’m currently dabbling in cloud computing using Python and AWS.  
 - 📫 You can reach me on my email off.andrius@gmail.com
 
 <!---
